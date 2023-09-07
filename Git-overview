@@ -11,3 +11,25 @@ Please go through the below link for more about
 🤖https://www.linkedin.com/pulse/git-commands-vaheeda-begum-sheik%3FtrackingId=WCLwe2nqRiu8h4ln%252Bme3Hg%253D%253D/?trackingId=WCLwe2nqRiu8h4ln%2Bme3Hg%3D%3D
 
 Thank you 😊
+
+
+When it comes to interview questions on Git, there are several key topics that are often covered. Here are some commonly asked interview questions on Git and their answers:
+
+What is Git and what are its advantages? Git is a distributed version control system that allows multiple people to collaborate on a project while keeping track of changes. Its advantages include:
+
+Tracking changes efficiently
+Enabling collaboration among team members
+Allowing for easy branching and merging
+Facilitating faster and more efficient development workflows
+What is the relationship between Git and SCM tools? Git is a type of Source Code Management (SCM) tool. It helps in managing and tracking changes to source code files. Git provides features like version control, branching, merging, and collaboration, making it a popular choice among developers.
+
+Can you explain about branching and merging in Git? Branching in Git allows developers to create separate lines of development within a project. It helps isolate changes and work on different features or bug fixes concurrently. Merging is the process of combining changes from one branch into another. This allows the integration of different branches and ensures that changes are incorporated into the main branch.
+
+How do you resolve merge conflicts in Git? Merge conflicts occur when Git is unable to automatically merge two sets of changes. To resolve merge conflicts, you need to:
+
+Identify the conflicting files
+Open the conflicting files and manually edit them to resolve the conflicts
+Stage the resolved files and commit the changes
+What is the purpose of the Git stash command? The Git stash command is used to temporarily save changes that have not been committed yet. It allows developers to switch to a different branch without having to commit or discard their changes. The stashed changes can later be reapplied to the branch or popped back.
+
+These are just a few examples of interview questions on Git. It's important to have a good understanding of the basic concepts and commands in Git, as well as practical experience in using it for version control and collaboration. Remember to also familiarize yourself with any specific Git workflows or practices used by the company you are interviewing with.
